@@ -3,6 +3,7 @@ export const logo = [
   `<g>
     <g fill="none" fill-rule="nonzero">
       <g style="fill:#80d0ff;">
+        <!-- Logo background or shapes go here -->
       </g>
       <g style="fill:currentColor;">
         <text x="100" y="100" font-family="Arial, sans-serif" font-size="100" fill="currentColor">

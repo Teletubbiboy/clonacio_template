@@ -63,8 +63,8 @@ export const AppSidebarNav = ({ items }) => {
 
       {/* Nou botó a la barra lateral per redirigir a la pàgina "Hola" */}
       <CNavItem>
-        <CNavLink as={NavLink} to="/hola">
-          Hola Page
+        <CNavLink as={NavLink} to="/">
+          Home
         </CNavLink>
       </CNavItem>
     </CSidebarNav>
